@@ -6,13 +6,13 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/ThierryRizzo/Ebook-IA/Ebook/Ebook_Swift_TheOffice - cópia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ThierryRizzo/Ebook-IA/blob/main/Ebook/Ebook_Swift_TheOffice%20-%20cópia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.apple.com/br/keynote/)
+- [KeyNote](https://www.apple.com/br/keynote/)
 
 ## 🧠 Prompts
 
@@ -36,9 +36,5 @@ Copilot：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Copilot
 
-## 📚 Materiais
-
-- ebook gerado durante as aulas em `Ebook`
-
 ## 👨‍💻 Aluno
-⌨️ por [Thierry Rizzo](https://github.com/ThierryRizzo)
+por [Thierry Rizzo](https://github.com/ThierryRizzo)
